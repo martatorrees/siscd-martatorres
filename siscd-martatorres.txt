@@ -5,4 +5,4 @@ siscd
 “Sistemas Informáticos de Soporte a la Colaboración y la Decisión”
 siscd
 martatorrees
-martatorrees@siscd.es
+martatorrees@correo.ugr.es
